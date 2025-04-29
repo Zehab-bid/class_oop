@@ -7,8 +7,10 @@ public :
     string nama;
     float nilai;
 
+    void printData(){
+        
+    }
 };
-
 int main() {
 
 
