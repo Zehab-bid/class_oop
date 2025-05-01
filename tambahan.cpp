@@ -27,3 +27,10 @@ private:
         }
     }
 };
+
+int main() {
+    Segitiga mhs;
+    mhs.inputData();
+    mhs.outputData();
+    return 0;
+}
